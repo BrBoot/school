@@ -11,7 +11,7 @@
 <body>
     <header>
         <div class="container">
-            <img src="" title="Logo" alt="Logo">
+            <img src="img/logo.png" title="Logo" alt="Logo">
             <div id="menu"></div>
         </div>    
     </header>
