@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <html lang="pt-br">
+    <link rel="stylesheet" href="css/bootstrap.min.css">    
+    <link rel="stylesheet" href="//cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">    
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="//cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
     <title>Cursos On-line</title>
 
 </head>
@@ -17,6 +18,9 @@
                 <a href="?pagina=cursos">Cursos</a>
                 <a href="?pagina=alunos">Alunos</a>
                 <a href="?pagina=matriculas">Matrículas</a>
+                <?php if(isset($_SESSION['login'])){ ?>
+                    <a href="logout.php"><?php echo $_SESSION['usuario']; ?> (Sair)</a>
+                <?php } ?> 
             </div>
         </div>    
     </header>
