@@ -5,6 +5,7 @@
     <html lang="pt-br">
     <link rel="stylesheet" href="css/bootstrap.min.css">    
     <link rel="stylesheet" href="//cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">    
+    <script src="https://kit.fontawesome.com/dbd07a4d89.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="css/style.css">
     <title>Cursos On-line</title>
 
