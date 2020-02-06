@@ -1,4 +1,4 @@
-<a class="btn btn-primary" href="?pagina=inserir_curso">Inserir novo curso</a>
+<a class="btn btn-primary mb-3" href="?pagina=inserir_curso">Inserir novo curso</a>
 
 
 <table class="table table-hover" id="cursos">

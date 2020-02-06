@@ -46,3 +46,7 @@ footer {
 #menu a:hover {
     background-color: #619FFF;
 }
+h1 {
+    text-align: center;
+    color: #FFAB62;
+}

@@ -1,4 +1,4 @@
-<a class="btn btn-primary" href="?pagina=inserir_matricula">Inserir nova matricula</a>
+<a class="btn btn-primary mb-3" href="?pagina=inserir_matricula">Inserir nova matricula</a>
 
 <table class="table table-hover" id="matriculas">
     <thead>
